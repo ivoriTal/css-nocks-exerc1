@@ -1,0 +1,27 @@
+/* Exercise 4 */
+#one {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 100px;
+    height: 400px;
+    background-color: red;
+}
+
+#two {
+    position: absolute;
+    top: 20px;
+    left: 170px;
+    width: 280px;
+    height: 200px;
+    background-color: blue;
+}
+
+#three {
+    position: absolute;
+    top: 240px;
+    left: 170px;
+    width: 280px;
+    height: 180px;
+    background-color: green;
+}

@@ -1,0 +1,21 @@
+/* Exercise 5 */
+#one {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#two {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+#three {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}

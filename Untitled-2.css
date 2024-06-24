@@ -1,0 +1,36 @@
+/* Exercise 3 */
+#one {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#two {
+    position: absolute;
+    top: 20px;
+    left: 170px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#three {
+    position: absolute;
+    top: 140px;
+    left: 50px;
+    width: 220px;
+    height: 100px;
+    background-color: green;
+}
+
+#four {
+    position: absolute;
+    top: 140px;
+    left: 290px;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
